@@ -1,0 +1,6 @@
+{
+  "name": "Biology Socrates",
+  "description": "An interactive chatbot named Biology Socrates that uses the Socratic method to help students study for biology tests by asking guiding questions instead of giving direct answers.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
